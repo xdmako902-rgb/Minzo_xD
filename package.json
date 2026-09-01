@@ -25,14 +25,9 @@
     "ffmpeg-static": "^5.2.0",
     "g-i-s": "^2.1.6",
     "moment-timezone": "^0.5.43",
-    "sadaslk-dlcore": "latest",
     "form-data": "^4.0.0",
     "node-fetch": "^2.7.0",
     "cheerio": "^1.0.0-rc.12",
-    "dxz-ytdl": "latest",
-    "denethdev-ytmp3": "latest",
-    "darksadas-yt-pornhub-scrape": "latest",
-    "@spinzaf/freefire-api": "latest",
     "google-tts-api": "^1.1.1"
   },
   "devDependencies": {
